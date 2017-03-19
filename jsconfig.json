@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES6"
+    },
+    "exclude": [
+        "node_modules",
+        ".meteor",
+        "server",
+        ".gitignore"
+    ],
+    "include": [
+        "client",
+        "client/main.html"
+    ]
+}
+
+//https://code.visualstudio.com/docs/languages/jsconfig
